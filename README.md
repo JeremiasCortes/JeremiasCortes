@@ -80,5 +80,5 @@ Me gusta documentar, escribir pequeñas guías y compartir aprendizajes.
 Si quieres hablar sobre tecnología, proyectos o simplemente saludar, aquí tienes mis enlaces directos:  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Jeremy%20Cortés-blue?style=flat&logo=linkedin)](https://linkedin.com/in/jeremias-cortes/)
-[![Email](https://img.shields.io/badge/Email-Jeremy%20Cortés%40example.com-red?style=flat&logo=gmail)](mailto:jeremiasacortes@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Jeremy%20Cortés-red?style=flat&logo=gmail)](mailto:jeremiasacortes@gmail.com)
 [![YouTube](https://img.shields.io/badge/YouTube-TU%20CANAL-ff0000?style=flat&logo=youtube)](https://www.youtube.com/@JeremiasCortes1011)
